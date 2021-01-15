@@ -1,0 +1,35 @@
+img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    height:10vh;
+    
+}
+
+.text {
+    position: absolute;
+    color:#FCD69C;
+    top: 40%;
+    left: 50%;
+    transform:translate(-50%,-40%);
+   
+    
+}
+button {
+    outline:none;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+    color: #FCD69C;
+    border: solid #FCD69C;
+    background: transparent;
+    width: 10rem;
+    height: 3rem;
+    
+
+}
+
+body {
+    transition: 1s ease;
+}
